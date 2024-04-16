@@ -1,6 +1,12 @@
 # Thesis
 Finnish stock markets social media data analytics project
 
+
+
+# Getting the data
+Because the datasets from the scraper were quite big (around 140 MB) I decided to upload them into google drive due to Github's limitations.
+Here are the links you should dowload to obtain the data needed.
+
 To access the data needed in the evaluation of the artifact here is a link to google drive to obtain the data:
 Froum dataset part 1 after executing "Data scraper Inderes" (my_datadf5.csv):https://drive.google.com/file/d/1MhcA3kRsRmWfs3yDSzSEcWdJlT7So6ic/view?usp=sharing
 
