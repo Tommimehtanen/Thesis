@@ -1,5 +1,6 @@
 # Overview of the program
-![Uploading image.png…]()
+<img width="446" alt="image" src="https://github.com/Tommimehtanen/Thesis/assets/93819335/4b0fc11a-f7dc-4b3e-9b3b-6cad97409b6a">
+
 
 
 
